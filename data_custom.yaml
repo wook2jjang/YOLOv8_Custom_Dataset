@@ -1,0 +1,6 @@
+train: C:\Users\jeauk\OneDrive\바탕 화면\yolov8\train
+val: C:\Users\jeauk\OneDrive\바탕 화면\yolov8\val
+
+nc: 2
+
+names: ["jacket","hat"]
